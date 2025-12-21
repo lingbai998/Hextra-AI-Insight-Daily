@@ -2,100 +2,72 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-20
+next: /en/2025-12/2025-12-21
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/12/21
+## AI News Daily: December 22, 2025
 
-> AI News | Daily Briefing | Web Data Aggregation | Frontier Science Exploration | Industry Voice | Open Source Innovation | AI & Human Future | [Visit Web Version 🌐](https://ai.hubtoday.app/) | [Join Group Chat 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> **AI News Daily**: Your go-to for a quick morning read! ☀️ We're talking aggregated web data, exploring frontier science, giving a platform for industry voices, spotlighting open-source innovation, and pondering the future of AI and humanity. Dive in! 👇 [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Rundown**
+### Today's Rundown
 
 ```
-OpenAI Codex now bundles skills and partners with Disney
-Zhipu AI files for IPO in Hong Kong, aiming to be first large model stock
-Karpathy’s article says large models are shifting to RLVR training
-Cursor acquires Graphite, pushing for IDE integration
-Qwen releases model supporting transparent layers to optimize design workflow
+- Gemini: Deeply integrated with NotebookLM, opening up personal knowledge base conversations.
+- Qwen: Layered image model hits fal platform, bringing Photoshop-level layer separation and editing.
+- NVIDIA: Open-sources NitroGen, a universal game model that can play 1000+ games with awesome generalization!
+- Anthropic: Rolls out SGTM tech to quarantine risky knowledge while keeping general capabilities intact.
+- Karpathy: Sums up the year's AI paradigms, says RLVR is now standard, and AI intelligence is getting "jagged."
 ```
 
-### Product & Feature Updates
+### What's New: Products & Features
 
-1. **OpenAI Codex now bundles skills.**
-   OpenAI Codex now supports 📦 bundling reusable [Skills (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/openai-codex-skills). Developers can package instructions and resources into 📁 folders, and Codex can automatically select the right skills based on context, just like installing specialized software for the AI.
-<br/>![AI News: OpenAI Codex File Structure and Skill Pack Diagram](https://source.hubtoday.app/images/2025/12/news_01kcy636zafp9awrbhwsaak06c.avif)<br/>
+1.  **Gemini App** from Google just got a sweet update! 🎉 It now lets you directly import your [NotebookLM Notes (AI News)](https://x.com/op7418/status/2002570649039221126), totally smashing the wall between your personal knowledge and conversational AI. You can literally ask Gemini questions directly about your uploaded notes – super handy for bringing together tons of info or diving deep into [Extended Research (AI News)](https://video.twimg.com/amplify_video/2002075703995498496/vid/avc1/1280x720/6SaMgavlEebQr60r.mp4?tag=14).
+    <br/><video src="https://source.hubtoday.app/images/2025/12/news_01kd0tb81xe27r9xa59rjmv5e5.mp4"></video><br/>
 
-2. **ChatGPT adds personalization options.**
-   ChatGPT has rolled out several new 🎨 personalized [adjustment options (AI News)](https://x.com/imxiaohu/status/2002252763833774217). Users can now dial in the tone's 🔥 warmth and enthusiasm, plus freely customize title styles and ⚙️ emoji frequency.
-<br/>![AI News: ChatGPT Personalization Settings Interface Showing Tone Slider](https://source.hubtoday.app/images/2025/12/news_01kcy639see1fvmnk5d0vhfdz3.avif)<br/>
+2.  The **Qwen Image Layered model** just dropped on the [fal platform (AI News)](https://x.com/Alibaba_Qwen/status/2002528792359940211)! 🎨 Get ready for Photoshop-level layer separation and editing, right there. This bad boy can physically isolate RGBA layers, giving you super precise control from rough layouts all the way to tiny details, making truly [Native Editing (AI News)](https://pbs.twimg.com/media/G8i7PawXwAULbFP?format=jpg&name=orig) a reality.
+    <br/>![AI News: Qwen Model Demonstrates Layer Separation Effect](https://source.hubtoday.app/images/2025/12/news_01kd0tbd5mfjj8tg00pkjb2tgg.avif)<br/>
 
-### Frontier Research
+### Cutting-Edge Research
 
-1. **Qwen releases model supporting transparent layers.**
-   Qwen has dropped a new 🚀 [diffusion model (AI News)](https://newshacker.me/story?id=46321972) that totally supports transparent layers. This cool model can figure out 🧩 RGBA channels and spit out layered images, which means it can actually do native editing when hooked up with a PSD data pipeline. Basically, AI image generation is now way more aligned with 🖌️ pro design workflows.
-<br/><video src="https://source.hubtoday.app/images/2025/12/news_01kcy644n1ek1vwbwvmh74c0j5.mp4"></video><br/>
+1.  **NVIDIA** just dropped something massive: the [NitroGen model (AI News)](https://www.jiqizhixin.com/articles/2025-12-21-11)! 🚀 This bad boy can play over 1000 games and, get this, only needs a little fine-tuning to tackle new ones, all thanks to its GR00T architecture. We're not talking about some basic script here; this is a general large model with serious cross-game generalization power, learning controller moves from internet videos. It's not about deep thinking, but more about intuitive [Motion Control (AI News)](https://nitrogen.minedojo.org), setting the stage for general embodied AI. Pretty wild, right?
 
-### Industry Outlook & Social Impact
+2.  **Anthropic** just unveiled its game-changing [SGTM technology (AI News)](https://www.jiqizhixin.com/articles/2025-12-21-11), which allows you to ditch dangerous knowledge without actually deleting any data! 🛡️ How cool is that? It works by isolating sensitive info like CBRN through some clever gradient routing. Basically, it uses an "adsorption effect" to automatically pull unlabeled risky content into specific parameter zones, which you can then wipe clean with a single click. This isn't just better than old-school filtering; it's more robust, keeps the model's general capabilities intact, and is totally a [New Paradigm (AI News)](https://arxiv.org/pdf/2512.05648) for safety research. Pretty smart, huh?
 
-1. **Karpathy publishes 2025 Large Model Review.**
-   Karpathy just dropped his 📝 [annual review (AI News)](https://x.com/dotey/status/2002288466772824569) for large models in 2025. According to him, the training game is shifting towards RLVR verifiable 🧠 reinforcement learning, and Vibe Coding is making coding super cheap, almost like scribbling a draft. Models are apparently developing this kinda jagged, 📉 uneven intelligence. Plus, he predicts local AI Agents are gonna become those tiny little helpers chilling inside our 💻 computers.
-<br/>![AI News: Andrej Karpathy's Large Model Annual Review Tweet Screenshot](https://source.hubtoday.app/images/2025/12/news_01kcy64gvxf9eajwhk46td7z75.avif)<br/>
+### Industry Outlook & Societal Impact
 
-2. **Cursor acquires Graphite, sparking hot discussion.**
-   Cursor's acquisition of code tool Graphite has stirred up some serious [community discussion (AI News)](https://newshacker.me/story?id=46327325). Graphite's big win was its 📚 Stacked PRs review flow, and users are now low-key panicking that the product might get 📉 axed or swallowed up post-acquisition. This whole move really screams that IDEs are beefing up into 💼 integrated platforms.
+1.  **Karpathy**, the legend himself, just dropped his year-end summary of key [AI Paradigm Shifts (AI News)](https://www.jiqizhixin.com/articles/2025-12-21-7)! 📝 He's calling out RLVR (Reinforcement Learning with Verifiable Rewards) as the new training standard. Karpathy reckons AI intelligence is super "jagged" – brilliant in some areas, but totally elementary in others. 🧠 On the app front, Cursor is showing off a fresh application layer depth, while Claude Code is basically a local [Agent (AI News)](https://x.com/karpathy/status/2002118205729562949) living right inside your computer. Pretty insightful stuff!
 
-3. **Zhipu AI files for IPO in Hong Kong.**
-   Zhipu AI has officially filed its [IPO prospectus (AI News)](https://m.okjike.com/originalPosts/69457b5af9f724324fbb5d2c) with the 🇭🇰 Hong Kong Stock Exchange. As the first large model company to hit the public market, Zhipu AI is seeing super fast 💰 revenue growth, and big players like Tencent and Alibaba are even on its 🤝 shareholder list. This move is gonna be a major ⚖️ pricing benchmark for China's AI industry.
-<br/>![AI News: Zhipu AI Prospectus Key Data Chart](https://source.hubtoday.app/images/2025/12/news_01kcy64npmeh8aaq7d4y3409f9.avif)<br/>
+2.  The **AGI Debate** is getting spicy! 🔥 Two professors are totally clashing over whether AGI is still light-years away. A CMU professor is betting that physical limits and sky-high computing costs will pump the brakes on AGI. But a UCSD professor is hitting back, arguing there's still a massive [Improvement Space (AI News)](https://www.jiqizhixin.com/articles/2025-12-21-10) for software and hardware efficiency – think FP4 training and slick new architectural designs. This [Clash of Views (AI News)](https://danfu.org/notes/agi/) about physical roadblocks versus engineering hacks really shows how divided the industry is on what the future holds.
 
-4. **Disney and OpenAI reach exclusive partnership.**
-   Disney and OpenAI just inked a sweet 🤝 three-year [exclusive partnership (AI News)](https://x.com/DeepLearningAI/status/2002104656621658493). The deal means Sora gets the green light to use 🏰 Disney characters for video generation, potentially giving fan-made content a shot at landing on 📺 Disney+!
-<br/>![AI News: Mickey Mouse and OpenAI Logo Partnership Diagram](https://source.hubtoday.app/images/2025/12/news_01kcy64s4mewwavmnrsamng29d.avif)<br/>
+3.  **Salvatore**, the OG "Father of Redis," just dropped some seriously deep [AI Industry Observations (AI News)](https://x.com/dotey/status/2002465295047479548)! 🤔 He's flat-out saying the "stochastic parrot" theory is toast, and LLMs are definitely forming internal representations. Salvatore believes Chain of Thought (CoT) is totally underrated, and it's reinforcement learning that's teaching models how to converge. Programmers? They've swung from being total skeptics to fully leaning on AI. The biggest challenge for the next twenty years, he reckons, is figuring out how to dodge [AI Extinction (AI News)](https://antirez.com/news/157). 😬
+    <br/>![AI News: Salvatore, Father of Redis, on Social Media Profile Picture](https://source.hubtoday.app/images/2025/12/news_01kd0tbj9xfqf8xy5k7ttqmqtb.avif)<br/>
 
-5. **AI lowering virus manufacturing barrier raises concerns.**
-   AI models are reportedly slashing the barrier to [virus manufacturing (AI News)](https://www.reddit.com/r/artificial/comments/1pqtz49/ai_models_make_it_almost_five_times_more_likely_a/), according to new research. Non-experts now have a five-fold higher success rate at replicating 🦠 viruses, and labs have even verified the protocol's 🧪 feasibility. Kinda scary, right? 🚨
-<br/>![AI News: Data Chart on AI-Assisted Virus Synthesis in Biology Lab](https://source.hubtoday.app/images/2025/12/news_01kcy64wegf5bstkan0mv91t37.avif)<br/>
+### Top Open Source Projects
 
-### Open Source TOP Projects
+1.  **PayloadsAllTheThings**: This ⭐ 73k [Security Payload List (AI News)](https://github.com/swisskyrepo/PayloadsAllTheThings) is a total must-have for white hats! It's packed with all the injection codes and bypass techniques you'll need for web penetration testing – basically, your ultimate security arsenal. ⚔️
 
-1. **Exo: Building AI clusters with home devices.**
-   Exo is a [cluster tool (AI News)](https://github.com/exo-explore/exo) that lets you network your 📱 household devices. You can totally use your phones and 💻 computers to build private computing power, and get this: the project has already smashed past ⭐ 34k Stars!
+2.  **The Book of Secret Knowledge**: Clocking in at ⭐ 199k, this is a real [Geek Resource Compendium (AI News)](https://github.com/trimstray/the-book-of-secret-knowledge)! It's jammed with CLI tools, hacker tricks, killer one-liners, and all sorts of dev cheat sheets. Seriously, it's got everything under the sun. 📖
 
-2. **DeepAudit: Intelligent agent vulnerability mining system.**
-   DeepAudit is China's first open-source 🕵️ [multi-agent (AI News)](https://github.com/lintsinghua/DeepAudit) vulnerability mining system. Even total newbies can deploy automated audits with just one click, and it even supports local Ollama for 🔒 private, secure operations.
+3.  **CocoIndex**: Check out this high-performance ⭐ 4.3k [Data Transformation Framework (AI News)](https://github.com/cocoindex-io/cocoindex)! It's tailor-made for AI applications, supports incremental processing, and can seriously supercharge your data flow efficiency. Talk about a speed boost! ⚡
 
-3. **Lobe Icons: AI brand vector icon library.**
-   Lobe Icons is a super lightweight, 🎨 open-source [vector icon library (AI News)](https://m.okjike.com/originalPosts/69461454e48f1bd7abe2ec66). It's made especially for AI apps and lets you import icons 📐 as you need 'em. Plus, coding tools can totally 🤖 auto-extract and use them. How cool is that?
-<br/>![AI News: Lobe Icons Displaying Multiple AI Model Brand Icon Collections](https://source.hubtoday.app/images/2025/12/news_01kcy651nxfsptsx3v2nmxakcg.avif)<br/>
+### Social Buzz
 
-4. **Nexa-sdk: Cross-platform edge-side inference SDK.**
-   Nexa-sdk is the new kid on the block, letting you run 🚀 the latest [edge-side models (AI News)](https://github.com/NexaAI/nexa-sdk) on both GPUs and NPUs. It's got PC and 📱 mobile covered, plays nice with Python/C++, and can quickly fire up all sorts of 🧠 models, including OpenAI gpt-oss.
+1.  **Nano Banana** Pro is flexing its creative muscles! A blogger named Guizang showed off some killer [City Posters (AI News)](https://x.com/op7418/status/2002685689314574803) generated by the tool. 🏙️ The model automatically tweaks the cloud-sea vibe and architectural landmarks depending on which city you pick. Pretty neat!
+    <br/>![AI News: City Digital Art Posters Generated by Nano Banana](https://source.hubtoday.app/images/2025/12/news_01kd0tbzaaek1859zepar71nvh.avif)<br/>
 
-### Social Media Shares
+2.  **ChatGPT Easter Egg** Alert! 🎁 A netizen named Xiao Hu stumbled upon a cool little secret: if you send a [Gift Emoji (AI News)](https://x.com/imxiaohu/status/2002418082091085862) in ChatGPT, it triggers a surprise effect! It's a fun little touch that totally spices up human-computer interaction. ✨
+    <br/>![AI News: Screenshot of ChatGPT Interface Showing Gift Box Effect](https://source.hubtoday.app/images/2025/12/news_01kd0tc4sffpybdd6k46h205be.avif)<br/>
 
-1. **NotebookLM optimizes PPT visuals.**
-   NotebookLM just got a shout-out from a 🤖 netizen who shared a sweet trick: using it to totally optimize [PPT visuals (AI News)](https://x.com/dotey/status/2002093701158580545)! Upload a PDF, and it whips up pages in any 🎨 style you want, seriously leveling up your 📈 presentation game.
-<br/>![AI News: NotebookLM Generated PPT Page Style Comparison](https://source.hubtoday.app/images/2025/12/news_01kcy65596fbxbehrcqg0tqde3.avif)<br/>
-
-2. **Nostalgia for millennial computer magazines.**
-   Millennial computer magazines are seriously giving people all the feels, sparking [full of emotion (AI News)](https://m.okjike.com/originalPosts/69468715f9f724324fd826c9) when flipping through those 📚 pages. Those editorial departments back in the day were packed with such ✍️ humanistic vibes. Man, time really is a brutal 🔪 butcher's knife, isn't it?
-<br/>![AI News: Retro Cover of Computer Enthusiast Magazine from the 2000s](https://source.hubtoday.app/images/2025/12/news_01kcy659tbevjsaqechg3e85qk.avif)<br/>
-
-3. **50,000-word website SEO maintenance manual.**
-   A netizen just dropped a massive 📒 50,000-word website SEO [maintenance manual (AI News)](https://m.okjike.com/originalPosts/694602a6e48f1bd7abe2ec66)! It's a super practical guide for SEO 🌱 newbies, loaded with structured knowledge and all the 🏗️ nitty-gritty details of building a site.
-<br/>![AI News: Website SEO Maintenance Manual Directory on FlowUs](https://source.hubtoday.app/images/2025/12/news_01kcy65hbgfxhtthyep24xf5tn.avif)<br/>
-
-4. **The smoothness of AI content vs. human authenticity.**
-   AI-generated content? It's often way too 🌊 smooth and flawless, totally [lacking texture (AI News)](https://x.com/lijigang_com/status/2002285069960982937). You read it, and it just slides right out of your 🧠 brain without leaving a single scratch. Honestly, human confusion and awkwardness actually feel way more 🧐 authentic and endearing.
+3.  **Context Engineering Blog List**: Developers are hyped about a super practical [Context Engineering Blog (AI News)](https://x.com/shao__meng/status/2002394841532281000) list! 📚 It features official tech blogs from big names like Anthropic and Cognition – perfect for some serious weekend brain-boosting. 🧠
 
 ---
 
-## **AI News Daily Audio Version**
+## AI News Daily: Audio Edition
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎤 **Xiaoyuzhou** | 🎬 **Douyin** |
 | --- | --- |
-| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaoyuzhou](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [The Next Life Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Xiaoyuzhou Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
